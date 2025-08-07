@@ -16,6 +16,11 @@ export default class MyDocument extends Document {
             />
 
             <link rel='manifest' href='/manifest.json' />
+          <script
+            defer
+            src="https://umami.ergezen.nl/script.js"
+            data-website-id="a4f1e196-db4c-4b17-85d1-78a8b838cb1a"
+          />
           </Head>
 
           <body>
