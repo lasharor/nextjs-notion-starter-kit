@@ -6,7 +6,7 @@ export default siteConfig({
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: a4c53fde-0590-4fb2-a41c-2947a895e640,
+  rootNotionSpaceId: "a4c53fde-0590-4fb2-a41c-2947a895e640",
 
   // basic site info (required)
   name: 'Ergezen.nl',
